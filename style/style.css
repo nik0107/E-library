@@ -1,0 +1,40 @@
+.navbar-brand img {
+    width: 200px;
+}
+.carousel-item {
+    height: 400px;
+}
+.carousel-caption {
+    padding-bottom: 130px;
+}
+.card img {
+    width: 130px;
+}
+.card {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.card1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.card-body h3 {
+    text-transform: uppercase;
+    color: #633; 
+}
+.footer {
+    background-color: #999;
+    margin-top: 50px;
+}
+.footer h5 {
+    color: white;
+}
+.footer p {
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.footer a {
+    text-decoration: underline;
+    color: white;
+}
